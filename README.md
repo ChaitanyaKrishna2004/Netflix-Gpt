@@ -13,12 +13,10 @@
 - Browse (after authentication)
   -Header
   - Main Movie
-- Tailer in Background
-- Title & Description
-- MovieSuggestions
-- MovieLists \* N
+  - Tailer in Background
+  - Title & Description
+  - MovieSuggestions
+  - MovieLists \* N
 - NetfLixGPT
   - Search Bar
   - Movie Suggestions
-
-course
