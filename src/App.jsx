@@ -1,10 +1,13 @@
+import { Provider } from 'react-redux'
 import './App.css'
+// import appStore from "./utils/appStore";
 
-function App() {
-
+const App = () => {
   return (
-   <div className="bg-amber-600">Hello world</div>
+    // <Provider store={appStore}>
+      <main />
+    // </Provider> 
   )
 }
 
-export default App
+export default App;
